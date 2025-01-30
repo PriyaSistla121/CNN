@@ -8,7 +8,7 @@ Data set Contains 2000 images (1k cats, 1k dogs)
 ## Technologies Used
 * Backend: Python
 * Data Handling: Pandas for model building
-* Machine Learning: CNN for Image classification
+* Neural Network: CNN for Image classification
 
 ## Features
 * Used ImageDataGenerator to produce batches of enhanced images
