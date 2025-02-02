@@ -19,3 +19,6 @@ Data set Contains 2000 images (1k cats, 1k dogs)
 * Evaluates model performance using accuracy and loss curves
 * loads the trained model for future predictions
 * Classifies the image given as dog or cat
+
+
+edited by SKP
