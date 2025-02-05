@@ -21,4 +21,3 @@ Data set Contains 2000 images (1k cats, 1k dogs)
 * Classifies the image given as dog or cat
 
 
-edited by SKP
